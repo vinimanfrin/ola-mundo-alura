@@ -1,4 +1,4 @@
-# README - Projeto React Alura
+Projeto React Alura
 
 Bem-vindo ao projeto desenvolvido no curso de React da Alura! Este projeto tem como objetivo proporcionar uma compreensão abrangente do React e do uso da biblioteca `react-router-dom`. Abaixo estão alguns tópicos abordados durante o curso:
 
@@ -8,7 +8,7 @@ Bem-vindo ao projeto desenvolvido no curso de React da Alura! Este projeto tem c
 
 - **React**: Uma biblioteca JavaScript para criar interfaces de usuário.
 - **react-router-dom**: Uma biblioteca para controle de rotas em aplicações React.
-- **Vercel**: Uma plataforma para deploy de aplicativos.
+
 
 ### Tópicos Abordados
 
